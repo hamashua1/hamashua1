@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I currently have my own startup  Company called Madrina Dev<br>I'm looking forward to collaborate or work for other Companies<br>I'm a DevOps Engineer who schooled in America<br>I love music too 
+Highly skilled and results-driven DevOps Engineer with of experience in automating and streamlining operations, improving infrastructure scalability, and ensuring high availability for production systems. Adept at leveraging a range of tools, technologies, and best practices in continuous integration/continuous deployment (CI/CD), cloud computing, and infrastructure as code (IaC). Proven ability to collaborate cross-functionally to achieve seamless, reliable, and secure deployments while optimizing operational efficiency.
 
 
 ## 🌐 Socials:
